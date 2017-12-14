@@ -1,0 +1,3 @@
+MainPackage=C:\Users\g00341964\Desktop\CSharpProject - lastVersion\CSharpProject\bin\ARM\Release\CSharpProject_1.1.0.0_ARM.appx
+SymbolPackage=C:\Users\g00341964\Desktop\CSharpProject - lastVersion\CSharpProject\AppPackages\CSharpProject_1.1.0.0_Test\CSharpProject_1.1.0.0_ARM.appxsym
+ResourcePack=C:\Users\g00341964\Desktop\CSharpProject - lastVersion\CSharpProject\bin\ARM\Release\CSharpProject_1.1.0.0_scale-100.appx
